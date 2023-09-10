@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 900;
+}
+.navbar-brand talk {
+    color: #e53536;
+
+}
+.btn_1{
+    border: none;
+    background-color: rgb(253, 221, 226);
+    border-radius: 50px;
+    color: #e53536;
+    padding: 15px;
+    margin-top: 100px;
+
+}
+.to{
+    color: #e53536;
+}
+
+.navbar-nav{
+    margin-right: 100px;
+}
+.btn-2{
+ border: none;
+ background-color: #e53536;
+ border-radius: 15%;
+ color: white;
+ padding: 15px 35px;
+}
+.to-1{
+    text-align: center;
+    color: #e53536;
+    margin-top: 110px;
+}
+.to-2{
+    text-align: center;
+}
